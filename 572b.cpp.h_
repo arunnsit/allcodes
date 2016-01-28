@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include<algorithm>
+using namespace std;
+struct node1{
+	char a[2]
+}
