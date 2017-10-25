@@ -1,6 +1,10 @@
+#include<iostream>
+#include<vector>
 #include<stdio.h>
 #include<algorithm>
+
 using namespace std;
+
 long long int a[500000],b[500000];
 int main(){
 	long long int x,y,i,j,n,m;
